@@ -11,4 +11,5 @@ dependencies = [
     "numpy>=2.5.3",
     "pandas>=3.0.6",
     "pymatgen[vis]>=2026.10.24",
+    "scipy-stubs~=1.18.1",
 ]
