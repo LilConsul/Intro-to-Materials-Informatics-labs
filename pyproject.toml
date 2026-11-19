@@ -6,10 +6,11 @@ readme = "README.md"
 requires-python = ">=3.14"
 dependencies = [
     "ipykernel>=7.4.0",
+    "matminer>=0.10.1",
     "matplotlib>=3.11.2",
     "mp-api>=0.47.0",
     "numpy>=2.5.3",
-    "pandas>=3.0.6",
+    "pandas>=2.3.3,<3",
     "pymatgen[vis]>=2026.10.24",
     "scipy-stubs~=1.18.1",
 ]
